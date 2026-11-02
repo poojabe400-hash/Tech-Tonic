@@ -1,0 +1,1832 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "1c43aac6-bfda-43a7-94b6-60c4add857b0",
+      "created_at": "2026-11-02T18:02:24.179831",
+      "updated_at": "2026-11-02T18:02:24.179844"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "df12b3b0-536e-42c6-8720-308393329597",
+      "created_at": "2026-11-02T18:02:24.184363",
+      "updated_at": "2026-11-02T18:02:24.184374"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "22961977-59bb-4ceb-a3e0-de3ea6504a23",
+      "created_at": "2026-11-02T18:02:24.197936",
+      "updated_at": "2026-11-02T18:02:24.197947"
+    },
+    {
+      "name": "Java",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "40ea5a50-e131-47e8-93c8-04935896a4cd",
+      "created_at": "2026-11-02T18:02:24.208935",
+      "updated_at": "2026-11-02T18:02:24.208946"
+    },
+    {
+      "name": "C++",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "82943093-9c58-468f-8b68-4527f17c37c7",
+      "created_at": "2026-11-02T18:02:24.222617",
+      "updated_at": "2026-11-02T18:02:24.222646"
+    },
+    {
+      "name": "Go",
+      "category": "Programming Languages",
+      "popular": false,
+      "is_demo": true,
+      "_id": "df477306-4417-48ed-bfef-03ac83b5b686",
+      "created_at": "2026-11-02T18:02:24.235252",
+      "updated_at": "2026-11-02T18:02:24.235263"
+    },
+    {
+      "name": "Rust",
+      "category": "Programming Languages",
+      "popular": false,
+      "is_demo": true,
+      "_id": "1c8e09ee-220a-4ec8-ab9f-1b1a3764c339",
+      "created_at": "2026-11-02T18:02:24.248138",
+      "updated_at": "2026-11-02T18:02:24.248152"
+    },
+    {
+      "name": "SQL",
+      "category": "Programming Languages",
+      "popular": true,
+      "is_demo": true,
+      "_id": "6cc8b68f-e807-4c1c-b85c-5195a7386da0",
+      "created_at": "2026-11-02T18:02:24.261936",
+      "updated_at": "2026-11-02T18:02:24.261947"
+    },
+    {
+      "name": "React.js",
+      "category": "Frontend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "e2d183ce-3343-4773-9aae-f1f1c19c9972",
+      "created_at": "2026-11-02T18:02:24.273418",
+      "updated_at": "2026-11-02T18:02:24.273428"
+    },
+    {
+      "name": "Next.js",
+      "category": "Frontend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "e9099a61-a398-4772-8c62-8084a2931d6a",
+      "created_at": "2026-11-02T18:02:24.285592",
+      "updated_at": "2026-11-02T18:02:24.285602"
+    },
+    {
+      "name": "Vue.js",
+      "category": "Frontend",
+      "popular": false,
+      "is_demo": true,
+      "_id": "1f222f2f-a4eb-41d9-8568-33b0dd1d3292",
+      "created_at": "2026-11-02T18:02:24.296662",
+      "updated_at": "2026-11-02T18:02:24.296673"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "6f52c1b6-732c-48fc-ba5b-c408e9a6e715",
+      "created_at": "2026-11-02T18:02:24.309047",
+      "updated_at": "2026-11-02T18:02:24.309058"
+    },
+    {
+      "name": "HTML5 & CSS3",
+      "category": "Frontend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "774771c6-c18b-4528-aa11-4b0fa636d53b",
+      "created_at": "2026-11-02T18:02:24.320843",
+      "updated_at": "2026-11-02T18:02:24.320853"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "fc89a783-f612-4fa8-8366-564fe787c0d6",
+      "created_at": "2026-11-02T18:02:24.334379",
+      "updated_at": "2026-11-02T18:02:24.334390"
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "45299396-5074-4006-a81b-75be6cf3cff5",
+      "created_at": "2026-11-02T18:02:24.345219",
+      "updated_at": "2026-11-02T18:02:24.345229"
+    },
+    {
+      "name": "Flask",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "ac1d2c5e-5356-4073-89ae-277dcbc9aa17",
+      "created_at": "2026-11-02T18:02:24.357186",
+      "updated_at": "2026-11-02T18:02:24.357196"
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "fa70fa15-37e7-4f5d-97a5-5b0c53208340",
+      "created_at": "2026-11-02T18:02:24.370722",
+      "updated_at": "2026-11-02T18:02:24.370733"
+    },
+    {
+      "name": "Django",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "835f8153-c85d-43cd-bb34-77c6728c49eb",
+      "created_at": "2026-11-02T18:02:24.383145",
+      "updated_at": "2026-11-02T18:02:24.383155"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Databases",
+      "popular": true,
+      "is_demo": true,
+      "_id": "d91ee310-8ff6-4f11-a10d-51453baf308c",
+      "created_at": "2026-11-02T18:02:24.394666",
+      "updated_at": "2026-11-02T18:02:24.394676"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "popular": true,
+      "is_demo": true,
+      "_id": "0768afef-d953-480c-8a6f-af169115fb7e",
+      "created_at": "2026-11-02T18:02:24.406622",
+      "updated_at": "2026-11-02T18:02:24.406632"
+    },
+    {
+      "name": "Redis",
+      "category": "Databases",
+      "popular": false,
+      "is_demo": true,
+      "_id": "48498398-5b4b-4e8a-b8da-b8bb51952017",
+      "created_at": "2026-11-02T18:02:24.420602",
+      "updated_at": "2026-11-02T18:02:24.420613"
+    },
+    {
+      "name": "Firebase",
+      "category": "Cloud & BaaS",
+      "popular": true,
+      "is_demo": true,
+      "_id": "4b26fe66-c750-4ebb-92b5-e54a03cc321d",
+      "created_at": "2026-11-02T18:02:24.432593",
+      "updated_at": "2026-11-02T18:02:24.432604"
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "popular": true,
+      "is_demo": true,
+      "_id": "9699f9ba-ef62-4bc4-95e8-117513f6ee79",
+      "created_at": "2026-11-02T18:02:24.444953",
+      "updated_at": "2026-11-02T18:02:24.444963"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "DevOps",
+      "popular": false,
+      "is_demo": true,
+      "_id": "8625c98e-be0e-48db-8de1-a818d8fd8f18",
+      "created_at": "2026-11-02T18:02:24.456380",
+      "updated_at": "2026-11-02T18:02:24.456390"
+    },
+    {
+      "name": "Git & GitHub",
+      "category": "Tools",
+      "popular": true,
+      "is_demo": true,
+      "_id": "70c87857-fb4c-463a-911e-89a4436f4b19",
+      "created_at": "2026-11-02T18:02:24.470682",
+      "updated_at": "2026-11-02T18:02:24.470693"
+    },
+    {
+      "name": "AWS Cloud",
+      "category": "Cloud",
+      "popular": true,
+      "is_demo": true,
+      "_id": "67f88141-c226-454e-9945-7aab29903d33",
+      "created_at": "2026-11-02T18:02:24.485422",
+      "updated_at": "2026-11-02T18:02:24.485433"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI/Data",
+      "popular": true,
+      "is_demo": true,
+      "_id": "9b8558d7-2cf9-4804-8257-37cf83d7ac15",
+      "created_at": "2026-11-02T18:02:24.498204",
+      "updated_at": "2026-11-02T18:02:24.498214"
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "category": "Core CS",
+      "popular": true,
+      "is_demo": true,
+      "_id": "0c0553ea-58cd-4b01-86d8-6eef7a5f2bd2",
+      "created_at": "2026-11-02T18:02:24.510707",
+      "updated_at": "2026-11-02T18:02:24.510718"
+    },
+    {
+      "name": "Pandas & NumPy",
+      "category": "AI/Data",
+      "popular": true,
+      "is_demo": true,
+      "_id": "6b1c2a82-98e8-41e5-9866-96422a3301b5",
+      "created_at": "2026-11-02T18:02:24.523176",
+      "updated_at": "2026-11-02T18:02:24.523186"
+    },
+    {
+      "name": "RESTful API Design",
+      "category": "Backend",
+      "popular": true,
+      "is_demo": true,
+      "_id": "a5cb774d-7905-4932-83f6-3d557f8abfd4",
+      "created_at": "2026-11-02T18:02:24.538800",
+      "updated_at": "2026-11-02T18:02:24.538810"
+    }
+  ],
+  "opportunities": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "Nexus Innovations (Demo)",
+      "category": "Software Engineering",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Bengaluru / Remote",
+      "stipend": "\u20b925,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "Flask",
+        "RESTful API Design",
+        "Git & GitHub"
+      ],
+      "eligibility": "B.Tech / B.E. / BCA / MCA students graduating 2026 or 2027",
+      "description": "Work with our backend engineering team building scalable REST APIs and data processing microservices. Mentorship provided.",
+      "deadline": "2026-11-26",
+      "source": "Verified Partner Network",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "47a4e306-532f-4d75-bac9-d1ed2203b1a4",
+      "created_at": "2026-11-02T18:02:24.554673",
+      "updated_at": "2026-11-02T18:02:24.554681"
+    },
+    {
+      "title": "Frontend React Developer",
+      "company": "CloudPeak Solutions (Demo)",
+      "category": "Frontend",
+      "type": "job",
+      "mode": "hybrid",
+      "location": "Hyderabad / Hybrid",
+      "stipend": "\u20b97.5 - 9.0 LPA",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "React.js",
+        "JavaScript",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "eligibility": "Graduating batch of 2026 with strong frontend portfolio",
+      "description": "Design responsive, high-performance dashboards for enterprise telemetry systems with modern React and Tailwind.",
+      "deadline": "2026-11-20",
+      "source": "Campus Drive Verified",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": false,
+      "is_demo": true,
+      "_id": "adceb6ea-7a73-4aa3-92ab-8296694da720",
+      "created_at": "2026-11-02T18:02:24.567572",
+      "updated_at": "2026-11-02T18:02:24.567583"
+    },
+    {
+      "title": "AI & Data Science Intern",
+      "company": "QuantumPulse Analytics (Demo)",
+      "category": "AI / Machine Learning",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b930,000 / month",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas & NumPy",
+        "SQL"
+      ],
+      "eligibility": "Pre-final and Final year students passionate about predictive modeling",
+      "description": "Analyze time-series financial indicators, train predictive models with scikit-learn, and build evaluation pipelines.",
+      "deadline": "2026-11-16",
+      "source": "Industry Partner",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "dc8ceab5-aae2-4a68-accf-5b9a077c30c8",
+      "created_at": "2026-11-02T18:02:24.580617",
+      "updated_at": "2026-11-02T18:02:24.580632"
+    },
+    {
+      "title": "Full Stack Web Developer Intern",
+      "company": "AuraTech Studios (Demo)",
+      "category": "Full Stack",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b920,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "eligibility": "Open to all branches and years; project demonstration required",
+      "description": "Contribute to full-stack features from UI components to database schemas in an agile startup environment.",
+      "deadline": "2026-12-02",
+      "source": "Startup Accelerator Portal",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "dc7579ec-47d4-4453-ba5d-74fa02ecc7a2",
+      "created_at": "2026-11-02T18:02:24.599978",
+      "updated_at": "2026-11-02T18:02:24.599989"
+    },
+    {
+      "title": "Cloud & DevOps Trainee",
+      "company": "Vanguard Cloud Systems (Demo)",
+      "category": "DevOps / Cloud",
+      "type": "job",
+      "mode": "onsite",
+      "location": "Pune, India",
+      "stipend": "\u20b96.5 - 8.0 LPA",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Docker",
+        "AWS Cloud",
+        "Git & GitHub",
+        "Linux"
+      ],
+      "eligibility": "Final year engineering students (2026)",
+      "description": "Assist in automating deployment pipelines, managing container clusters, and monitoring cloud infrastructure.",
+      "deadline": "2026-11-24",
+      "source": "Direct Campus Recruitment",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "359ffe42-3af6-4287-8e11-56334d868620",
+      "created_at": "2026-11-02T18:02:24.615482",
+      "updated_at": "2026-11-02T18:02:24.615492"
+    },
+    {
+      "title": "Mobile App Development Intern",
+      "company": "ByteWave Mobility (Demo)",
+      "category": "Mobile",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b918,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "React.js",
+        "JavaScript",
+        "TypeScript",
+        "RESTful API Design"
+      ],
+      "eligibility": "Undergraduate students with at least 1 mobile or web demo project",
+      "description": "Develop fluid cross-platform mobile screens and integrate third-party REST services.",
+      "deadline": "2026-11-22",
+      "source": "Verified Partner",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "61d7bb08-6c98-41d6-a075-aa35bdef996a",
+      "created_at": "2026-11-02T18:02:24.635384",
+      "updated_at": "2026-11-02T18:02:24.635394"
+    },
+    {
+      "title": "Junior Python Developer",
+      "company": "Crestview Labs (Demo)",
+      "category": "Backend",
+      "type": "job",
+      "mode": "hybrid",
+      "location": "Noida / Hybrid",
+      "stipend": "\u20b96.0 - 7.5 LPA",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "Django",
+        "SQL",
+        "Git & GitHub"
+      ],
+      "eligibility": "Degree in Computer Science or related fields",
+      "description": "Build high-throughput backend services and maintain database migrations.",
+      "deadline": "2026-11-21",
+      "source": "Campus Placement Cell",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "33c22f56-a9cc-438a-bbd8-525028800b02",
+      "created_at": "2026-11-02T18:02:24.651346",
+      "updated_at": "2026-11-02T18:02:24.651356"
+    },
+    {
+      "title": "Open Source Fellow",
+      "company": "Global Code Collective (Demo)",
+      "category": "Open Source",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b935,000 / month stipend",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Git & GitHub",
+        "Python",
+        "JavaScript",
+        "HTML5 & CSS3"
+      ],
+      "eligibility": "Any enrolled college student globally; no prior commercial experience required",
+      "description": "Full-time funded open source fellowship contributing to public digital infrastructure.",
+      "deadline": "2026-12-07",
+      "source": "Equalizer Open Source Initiative",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "ee7224fc-d459-481b-ac0e-aae860d81873",
+      "created_at": "2026-11-02T18:02:24.665658",
+      "updated_at": "2026-11-02T18:02:24.665669"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Apex Insight Media (Demo)",
+      "category": "Data Analytics",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Mumbai / Remote",
+      "stipend": "\u20b922,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Pandas & NumPy"
+      ],
+      "eligibility": "All STEM & Commerce students welcome",
+      "description": "Transform customer behavior logs into visual KPI dashboards and actionable business insights.",
+      "deadline": "2026-11-18",
+      "source": "Verified Partner",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "69aa6b0f-186a-4e20-ab66-dc1aff5fab08",
+      "created_at": "2026-11-02T18:02:24.680361",
+      "updated_at": "2026-11-02T18:02:24.680372"
+    },
+    {
+      "title": "Backend Engineering Intern",
+      "company": "FinStream Technologies (Demo)",
+      "category": "Backend",
+      "type": "internship",
+      "mode": "hybrid",
+      "location": "Gurugram / Hybrid",
+      "stipend": "\u20b928,000 / month",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "Java",
+        "SQL",
+        "RESTful API Design",
+        "Data Structures & Algorithms"
+      ],
+      "eligibility": "B.Tech/BE Computer Science / IT (2026/2027)",
+      "description": "Work on payment reconciliation microservices and low-latency transactional flows.",
+      "deadline": "2026-11-27",
+      "source": "Fintech Alliance",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": false,
+      "is_demo": true,
+      "_id": "5993ffb6-5d9b-414c-bc4b-c996191456a2",
+      "created_at": "2026-11-02T18:02:24.694990",
+      "updated_at": "2026-11-02T18:02:24.695002"
+    },
+    {
+      "title": "Associate UI/UX & Frontend Engineer",
+      "company": "PixelCraft Interactive (Demo)",
+      "category": "Frontend",
+      "type": "job",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b97.0 - 8.5 LPA",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "HTML5 & CSS3"
+      ],
+      "eligibility": "Strong visual design skills and responsive code sample required",
+      "description": "Bridge the gap between Figma mockups and fluid, accessible React components.",
+      "deadline": "2026-11-30",
+      "source": "Design Council",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "e2316d52-17a0-4eb8-b859-c99f0a92e00f",
+      "created_at": "2026-11-02T18:02:24.711788",
+      "updated_at": "2026-11-02T18:02:24.711799"
+    },
+    {
+      "title": "Cybersecurity & Network Intern",
+      "company": "Fortress Guard Cyber (Demo)",
+      "category": "Cybersecurity",
+      "type": "internship",
+      "mode": "onsite",
+      "location": "Bengaluru",
+      "stipend": "\u20b924,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "Linux",
+        "Data Structures & Algorithms"
+      ],
+      "eligibility": "Students enrolled in B.Tech, BCA, or Cybersecurity minors",
+      "description": "Participate in vulnerability scanning, penetration test reporting, and log anomaly review.",
+      "deadline": "2026-11-23",
+      "source": "Cyber Defense Network",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "31eb3dc6-e764-4d67-9e58-687cd31a437b",
+      "created_at": "2026-11-02T18:02:24.729483",
+      "updated_at": "2026-11-02T18:02:24.729494"
+    },
+    {
+      "title": "Machine Learning Research Assistant",
+      "company": "NeuralFrontier Labs (Demo)",
+      "category": "AI / Machine Learning",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b932,000 / month",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas & NumPy"
+      ],
+      "eligibility": "Demonstrated academic research or prior ML implementation projects",
+      "description": "Run model benchmarking on NLP datasets and draft empirical performance reports.",
+      "deadline": "2026-11-17",
+      "source": "Academic Research Portal",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": false,
+      "is_demo": true,
+      "_id": "3f0fa475-15c3-47c2-adbf-a706c108299e",
+      "created_at": "2026-11-02T18:02:24.745868",
+      "updated_at": "2026-11-02T18:02:24.745877"
+    },
+    {
+      "title": "Graduate Trainee Software Engineer",
+      "company": "Synapse Global Tech (Demo)",
+      "category": "Software Engineering",
+      "type": "job",
+      "mode": "onsite",
+      "location": "Chennai",
+      "stipend": "\u20b96.2 - 7.8 LPA",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "C++",
+        "Data Structures & Algorithms",
+        "SQL",
+        "Git & GitHub"
+      ],
+      "eligibility": "Graduating batch of 2026, minimum 6.5 CGPA",
+      "description": "Join our 12-week comprehensive graduate engineering program with rotation in platform infrastructure.",
+      "deadline": "2026-11-14",
+      "source": "University Relations",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "91458a0b-638f-4391-8f12-f2dba90e485e",
+      "created_at": "2026-11-02T18:02:24.767163",
+      "updated_at": "2026-11-02T18:02:24.767177"
+    },
+    {
+      "title": "Full Stack React & Node Intern",
+      "company": "Veloce Health (Demo)",
+      "category": "Full Stack",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b922,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "eligibility": "Pre-final / Final year students with full stack web apps",
+      "description": "Help develop telemedicine web portal with appointment booking and secure records.",
+      "deadline": "2026-11-28",
+      "source": "HealthTech Ventures",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "e89922b9-de08-401e-ace3-d7ea11d6ea1a",
+      "created_at": "2026-11-02T18:02:24.784002",
+      "updated_at": "2026-11-02T18:02:24.784013"
+    },
+    {
+      "title": "DevOps Junior Associate",
+      "company": "Kinetix Cloud (Demo)",
+      "category": "DevOps / Cloud",
+      "type": "job",
+      "mode": "hybrid",
+      "location": "Bengaluru / Hybrid",
+      "stipend": "\u20b98.0 - 10.0 LPA",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS Cloud",
+        "Git & GitHub"
+      ],
+      "eligibility": "2026 graduates with hands-on container and cloud experience",
+      "description": "Maintain Kubernetes clusters, automate Helm deployments, and monitor latency metrics.",
+      "deadline": "2026-11-19",
+      "source": "Verified Partner",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": false,
+      "is_demo": true,
+      "_id": "2814ac75-d69d-4704-a181-85490c899e0f",
+      "created_at": "2026-11-02T18:02:24.798981",
+      "updated_at": "2026-11-02T18:02:24.798992"
+    },
+    {
+      "title": "Technical Documentation & Community Intern",
+      "company": "DevSphere Open Source (Demo)",
+      "category": "Developer Relations",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b915,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Git & GitHub",
+        "HTML5 & CSS3",
+        "JavaScript"
+      ],
+      "eligibility": "Strong communication and interest in open source development",
+      "description": "Write clear developer guides, code samples, and assist students in hackathon on-boarding.",
+      "deadline": "2026-12-04",
+      "source": "Equalizer Community Program",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "8e9fe333-9bc0-4416-b1f7-0d5b3eb104b8",
+      "created_at": "2026-11-02T18:02:24.813929",
+      "updated_at": "2026-11-02T18:02:24.813940"
+    },
+    {
+      "title": "Backend Go Developer Intern",
+      "company": "HyperScale Cloud (Demo)",
+      "category": "Backend",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b928,000 / month",
+      "experience_level": "intermediate",
+      "is_paid": true,
+      "required_skills": [
+        "Go",
+        "Docker",
+        "RESTful API Design",
+        "PostgreSQL"
+      ],
+      "eligibility": "Students excited about concurrent low-latency programming",
+      "description": "Build asynchronous event consumers and caching layers using Go and Redis.",
+      "deadline": "2026-11-21",
+      "source": "Verified Partner",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": false,
+      "is_demo": true,
+      "_id": "c184d46f-8454-4ab0-abce-80472b6a65f3",
+      "created_at": "2026-11-02T18:02:24.829640",
+      "updated_at": "2026-11-02T18:02:24.829651"
+    },
+    {
+      "title": "QA Automation Engineering Intern",
+      "company": "Reliant Software QA (Demo)",
+      "category": "QA / Testing",
+      "type": "internship",
+      "mode": "remote",
+      "location": "Remote",
+      "stipend": "\u20b920,000 / month",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Python",
+        "JavaScript",
+        "Git & GitHub"
+      ],
+      "eligibility": "B.Tech/BCA/B.Sc students with scripting knowledge",
+      "description": "Write end-to-end integration test suites and test automation scripts for CI/CD.",
+      "deadline": "2026-11-29",
+      "source": "QA Guild",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "59161748-3cd8-44de-9f51-4aa5fa3a076e",
+      "created_at": "2026-11-02T18:02:24.844463",
+      "updated_at": "2026-11-02T18:02:24.844473"
+    },
+    {
+      "title": "Campus Technology Ambassador",
+      "company": "NextGen Builders Fellowship (Demo)",
+      "category": "Leadership & Tech",
+      "type": "internship",
+      "mode": "remote",
+      "location": "On Campus / Remote",
+      "stipend": "\u20b912,000 / month + Tech Grant",
+      "experience_level": "beginner",
+      "is_paid": true,
+      "required_skills": [
+        "Git & GitHub",
+        "HTML5 & CSS3"
+      ],
+      "eligibility": "Active 1st, 2nd, or 3rd year college students with campus leadership",
+      "description": "Lead coding workshops, organize collegiate hackathons, and represent student builders.",
+      "deadline": "2026-12-12",
+      "source": "Equalizer Student Leadership",
+      "last_verified": "2026-11-02",
+      "apply_url": null,
+      "is_beginner_friendly": true,
+      "is_demo": true,
+      "_id": "8bea9f38-0fbd-48b9-9cb4-4edeeca20298",
+      "created_at": "2026-11-02T18:02:24.860322",
+      "updated_at": "2026-11-02T18:02:24.860332"
+    }
+  ],
+  "events": [
+    {
+      "title": "National Smart India Innovation Hackathon 2026",
+      "organizer": "Ministry of Education & AICTE (Demo)",
+      "category": "Hackathon",
+      "format": "Hybrid",
+      "location": "New Delhi & Regional Nodal Centers",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-24",
+      "registration_deadline": "2026-11-14",
+      "eligibility": "College students in teams of 4 to 6 members",
+      "fee": "Free of cost",
+      "description": "36-hour nationwide hackathon solving hardware and software problem statements from government ministries and industry leaders.",
+      "registration_url": "https://example.com/events/national-hackathon-2026",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "569e8572-a8c6-4d7c-8310-5d463e55896f",
+      "created_at": "2026-11-02T18:02:24.875884",
+      "updated_at": "2026-11-02T18:02:24.875893"
+    },
+    {
+      "title": "AI Builders Hackfest 2026",
+      "organizer": "Google Developer Student Clubs (Demo)",
+      "category": "Hackathon",
+      "format": "Online",
+      "location": "Virtual / Global",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-18",
+      "registration_deadline": "2026-11-10",
+      "eligibility": "All enrolled college students",
+      "fee": "Free of cost",
+      "description": "Build innovative AI applications utilizing multimodal APIs, agentic reasoning, and open data to address campus and civic challenges.",
+      "registration_url": "https://example.com/events/ai-builders-hackfest",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "cb5d88e7-2cd2-4701-bdb4-54a6b1210a3f",
+      "created_at": "2026-11-02T18:02:24.893021",
+      "updated_at": "2026-11-02T18:02:24.893035"
+    },
+    {
+      "title": "System Design & Clean Code Workshop",
+      "organizer": "Tech Tonic Engineering Community (Demo)",
+      "category": "Workshop",
+      "format": "Online",
+      "location": "Live Webinar Stream",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "registration_deadline": "2026-11-08",
+      "eligibility": "Engineering & CS undergraduates",
+      "fee": "Free",
+      "description": "A 3-hour hands-on masterclass on scalable microservice design, database indexing, caching strategies, and interview system design.",
+      "registration_url": "https://example.com/events/system-design-masterclass",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "85bf780e-0ad8-477a-8693-c5b9951a12c8",
+      "created_at": "2026-11-02T18:02:24.911249",
+      "updated_at": "2026-11-02T18:02:24.911260"
+    },
+    {
+      "title": "Campus Placement Drive: Cloud & Enterprise Systems",
+      "organizer": "National Inter-Collegiate Placement Cell (Demo)",
+      "category": "Placement Drive",
+      "format": "Online",
+      "location": "Virtual Evaluation Portal",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-29",
+      "registration_deadline": "2026-11-20",
+      "eligibility": "Graduating batch of 2026 (B.Tech, MCA, BCA, B.Sc)",
+      "fee": "Free",
+      "description": "Multi-company pooled recruitment drive featuring technical assessments, coding evaluations, and live virtual interviews.",
+      "registration_url": "https://example.com/events/placement-drive-2026",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "1bd8f353-844a-4985-a00a-391cdc040b02",
+      "created_at": "2026-11-02T18:02:24.930280",
+      "updated_at": "2026-11-02T18:02:24.930291"
+    },
+    {
+      "title": "Women in Tech Coding Championship 2026",
+      "organizer": "AnitaB & SheCode Foundation (Demo)",
+      "category": "Coding Competition",
+      "format": "Online",
+      "location": "Online Coding Platform",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "registration_deadline": "2026-11-13",
+      "eligibility": "Female undergraduate and graduate STEM students",
+      "fee": "Free",
+      "description": "Competitive programming contest offering prizes, direct interview fast-tracks, and 1-on-1 industry mentorship for winners.",
+      "registration_url": "https://example.com/events/women-in-tech-2026",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "70294b64-01af-4ff1-ac26-d786a1cdfbb2",
+      "created_at": "2026-11-02T18:02:24.947695",
+      "updated_at": "2026-11-02T18:02:24.947706"
+    },
+    {
+      "title": "Full Stack Open Source BootCamp",
+      "organizer": "FOSS United College Chapters (Demo)",
+      "category": "Workshop",
+      "format": "Online",
+      "location": "Virtual Discord & GitHub Classroom",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-15",
+      "registration_deadline": "2026-11-09",
+      "eligibility": "Beginners welcome; basic Git familiarity helpful",
+      "fee": "Free",
+      "description": "4-day immersive weekend bootcamp teaching Git pull requests, CI testing, and contributing your first PR to major open repos.",
+      "registration_url": "https://example.com/events/foss-bootcamp-2026",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "2aa2b76b-bf4a-4fac-8cd9-20f0f6bec8d1",
+      "created_at": "2026-11-02T18:02:24.966169",
+      "updated_at": "2026-11-02T18:02:24.966180"
+    },
+    {
+      "title": "Inter-University Annual Tech Fest 'InnovateX'",
+      "organizer": "Apex Institute of Technology (Demo)",
+      "category": "College Fest",
+      "format": "In-Person",
+      "location": "Apex Campus, Bengaluru",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-04",
+      "registration_deadline": "2026-11-24",
+      "eligibility": "College students with valid college ID card",
+      "fee": "\u20b9150 for fest pass",
+      "description": "3 days of robotics competitions, pitch battles, paper presentations, capture the flag (CTF), and gaming showdowns.",
+      "registration_url": "https://example.com/events/innovatex-fest",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "0bac1a9d-bb15-46fe-9aba-93c092c08892",
+      "created_at": "2026-11-02T18:02:24.983952",
+      "updated_at": "2026-11-02T18:02:24.983963"
+    },
+    {
+      "title": "Fast-Track DSA & Technical Interview Webinar",
+      "organizer": "CareerBridge AI Prep Academy (Demo)",
+      "category": "Webinar",
+      "format": "Online",
+      "location": "Live Interactive Broadcast",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "registration_deadline": "2026-11-06",
+      "eligibility": "All students preparing for tech campus placements",
+      "fee": "Free",
+      "description": "Live breakdown of top 25 high-probability coding patterns asked by tier-1 product companies and startups.",
+      "registration_url": "https://example.com/events/dsa-webinar-2026",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "ba9b742e-aaca-459b-aa1b-e1845a394d92",
+      "created_at": "2026-11-02T18:02:25.002962",
+      "updated_at": "2026-11-02T18:02:25.002973"
+    },
+    {
+      "title": "FinTech & Blockchain HackSprint",
+      "organizer": "Decentralized Finance Network (Demo)",
+      "category": "Hackathon",
+      "format": "Online",
+      "location": "Online",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-26",
+      "registration_deadline": "2026-11-17",
+      "eligibility": "Students interested in financial tech and distributed ledgers",
+      "fee": "Free",
+      "description": "48-hour sprint to build next-generation payment infrastructure, fraud detection tools, and DeFi microservices.",
+      "registration_url": "https://example.com/events/fintech-hacksprint",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "51ef272a-c038-415c-91c6-c6570d661ebf",
+      "created_at": "2026-11-02T18:02:25.021396",
+      "updated_at": "2026-11-02T18:02:25.021406"
+    },
+    {
+      "title": "AWS Cloud Foundations Certification Drive",
+      "organizer": "AWS Academy & Campus Partners (Demo)",
+      "category": "Certification Program",
+      "format": "Online",
+      "location": "Self-paced + Live Mentorship",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-28",
+      "registration_deadline": "2026-11-11",
+      "eligibility": "Enrolled college students seeking cloud credentials",
+      "fee": "Free training + 50% exam voucher",
+      "description": "Two-week guided certification cohort covering S3, EC2, IAM, Lambda, and cloud security architectures.",
+      "registration_url": "https://example.com/events/aws-certification-cohort",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "da34c920-63fd-4c7d-9da0-43f1eb1939ec",
+      "created_at": "2026-11-02T18:02:25.040497",
+      "updated_at": "2026-11-02T18:02:25.040508"
+    },
+    {
+      "title": "Cyber Threat Simulation & CTF 2026",
+      "organizer": "National Cybersecurity Student League (Demo)",
+      "category": "Coding Competition",
+      "format": "Online",
+      "location": "Virtual CTF Lab",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-19",
+      "registration_deadline": "2026-11-12",
+      "eligibility": "Students interested in security & reverse engineering",
+      "fee": "Free",
+      "description": "Capture the Flag tournament with challenges across Web Exploitation, Cryptography, Forensics, and Binary Reversing.",
+      "registration_url": "https://example.com/events/cyber-ctf-2026",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "b010b9e6-041e-4dcf-bbaf-a10d64dd84ed",
+      "created_at": "2026-11-02T18:02:25.060225",
+      "updated_at": "2026-11-02T18:02:25.060244"
+    },
+    {
+      "title": "Google Summer of Code (GSoC) Prep Workshop",
+      "organizer": "Campus Open Source Advocates (Demo)",
+      "category": "Webinar",
+      "format": "Online",
+      "location": "Virtual Stream",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "registration_deadline": "2026-11-10",
+      "eligibility": "Open to all undergraduate students",
+      "fee": "Free",
+      "description": "Past GSoC contributors and mentors review how to write winning proposals and select suitable organizations.",
+      "registration_url": "https://example.com/events/gsoc-prep-masterclass",
+      "status": "Registration Open",
+      "is_demo": true,
+      "_id": "2aefd19b-645e-4da9-aaac-2bafe21abf22",
+      "created_at": "2026-11-02T18:02:25.079804",
+      "updated_at": "2026-11-02T18:02:25.079815"
+    },
+    {
+      "title": "Machine Learning in Production (MLOps) Conference",
+      "organizer": "Data Science Society (Demo)",
+      "category": "Tech Conference",
+      "format": "Hybrid",
+      "location": "Hyderabad Convention Center / Online",
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-08",
+      "registration_deadline": "2026-11-30",
+      "eligibility": "Students and researchers in AI/ML",
+      "fee": "Free student virtual pass",
+      "description": "Two days of keynote talks from AI research engineers covering LLM deployment, model monitoring, and vector databases.",
+      "registration_url": "https://example.com/events/mlops-conference",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "2250d87e-9877-414a-a75f-b383ef48e0b1",
+      "created_at": "2026-11-02T18:02:25.098794",
+      "updated_at": "2026-11-02T18:02:25.098805"
+    },
+    {
+      "title": "Startup Pitch Fest & Angel Fair",
+      "organizer": "Student Entrepreneurship Cell (Demo)",
+      "category": "Career Fair",
+      "format": "In-Person",
+      "location": "Pune Incubation Center",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-15",
+      "registration_deadline": "2026-12-03",
+      "eligibility": "Student founders and hiring startups",
+      "fee": "Free for students",
+      "description": "Pitch your student venture to angel investors or interview for early-stage startup founding engineer roles.",
+      "registration_url": "https://example.com/events/startup-pitch-fest",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "044faf63-997a-47cb-8cab-e871e78e5f3e",
+      "created_at": "2026-11-02T18:02:25.116773",
+      "updated_at": "2026-11-02T18:02:25.116784"
+    },
+    {
+      "title": "Quantum Computing & Algorithms Workshop",
+      "organizer": "National Science Foundation Chapter (Demo)",
+      "category": "Workshop",
+      "format": "Online",
+      "location": "Online Portal",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-02",
+      "registration_deadline": "2026-11-22",
+      "eligibility": "Students with linear algebra and Python foundations",
+      "fee": "Free",
+      "description": "Hands-on quantum circuit simulation using Qiskit and introductory quantum search algorithms.",
+      "registration_url": "https://example.com/events/quantum-computing-workshop",
+      "status": "Upcoming",
+      "is_demo": true,
+      "_id": "53dde968-29d9-4360-a653-93ae204b1c6e",
+      "created_at": "2026-11-02T18:02:25.135480",
+      "updated_at": "2026-11-02T18:02:25.135491"
+    }
+  ],
+  "learning_resources": [
+    {
+      "title": "FreeCodeCamp Full Stack Certification",
+      "platform": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "category": "Web Development",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "300 hours of hands-on interactive frontend and backend curriculum with verified certificates.",
+      "is_demo": true,
+      "_id": "bb3419ce-1b54-42ff-a8dd-c2907ec04178",
+      "created_at": "2026-11-02T18:02:25.154017",
+      "updated_at": "2026-11-02T18:02:25.154028"
+    },
+    {
+      "title": "CS50: Introduction to Computer Science",
+      "platform": "Harvard / edX",
+      "url": "https://cs50.harvard.edu/x/",
+      "category": "Core CS",
+      "is_free": true,
+      "cost": "Free Audit",
+      "description": "World-renowned introductory computer science course covering C, Python, SQL, and algorithms.",
+      "is_demo": true,
+      "_id": "b3382804-0fea-4c8e-b1ae-7991f6eee4cc",
+      "created_at": "2026-11-02T18:02:25.173878",
+      "updated_at": "2026-11-02T18:02:25.173888"
+    },
+    {
+      "title": "Kaggle Python & Machine Learning Micro-Courses",
+      "platform": "Kaggle Learn",
+      "url": "https://www.kaggle.com/learn",
+      "category": "Data & AI",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Bite-sized interactive Jupyter notebook courses in Python, Pandas, and Scikit-Learn.",
+      "is_demo": true,
+      "_id": "c5cf1a23-6dd1-45e7-8f27-b3f6c62ce885",
+      "created_at": "2026-11-02T18:02:25.197957",
+      "updated_at": "2026-11-02T18:02:25.197969"
+    },
+    {
+      "title": "The Odin Project - Full Stack JavaScript",
+      "platform": "The Odin Project",
+      "url": "https://www.theodinproject.com/",
+      "category": "Web Development",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Open-source curriculum taking you from zero to full stack developer through real projects.",
+      "is_demo": true,
+      "_id": "d4cddbf4-4b57-44ba-a78b-45c8a9b66796",
+      "created_at": "2026-11-02T18:02:25.221278",
+      "updated_at": "2026-11-02T18:02:25.221289"
+    },
+    {
+      "title": "MongoDB University: Python & Node Developer Paths",
+      "platform": "MongoDB",
+      "url": "https://learn.mongodb.com/",
+      "category": "Databases",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Official interactive courses with free certification voucher opportunities.",
+      "is_demo": true,
+      "_id": "ee4a2ee4-67fc-467c-8ee4-3e07c38acf54",
+      "created_at": "2026-11-02T18:02:25.243400",
+      "updated_at": "2026-11-02T18:02:25.243413"
+    },
+    {
+      "title": "Fast.ai Practical Deep Learning for Coders",
+      "platform": "Fast.ai",
+      "url": "https://course.fast.ai/",
+      "category": "AI / Deep Learning",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Top-down pragmatic deep learning course teaching PyTorch and modern architectures.",
+      "is_demo": true,
+      "_id": "46a832ba-44a7-4242-8a70-cfbbd1b5a5b1",
+      "created_at": "2026-11-02T18:02:25.266170",
+      "updated_at": "2026-11-02T18:02:25.266182"
+    },
+    {
+      "title": "SQLBolt - Interactive SQL Lessons",
+      "platform": "SQLBolt",
+      "url": "https://sqlbolt.com/",
+      "category": "Databases",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Learn SQL directly in your browser with interactive sandboxed database exercises.",
+      "is_demo": true,
+      "_id": "0f7f6ee6-774a-4713-a8bb-c9c70cd5d040",
+      "created_at": "2026-11-02T18:02:25.285696",
+      "updated_at": "2026-11-02T18:02:25.285708"
+    },
+    {
+      "title": "Roadmap.sh - Developer Roadmaps",
+      "platform": "Roadmap.sh",
+      "url": "https://roadmap.sh/",
+      "category": "Career Roadmaps",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Community-driven visual step-by-step career path guides for frontend, backend, devops, and AI.",
+      "is_demo": true,
+      "_id": "bb38f091-fb6b-43fc-8e29-d891bc4ca6a5",
+      "created_at": "2026-11-02T18:02:25.306323",
+      "updated_at": "2026-11-02T18:02:25.306334"
+    },
+    {
+      "title": "GitHub Student Developer Pack",
+      "platform": "GitHub Education",
+      "url": "https://education.github.com/pack",
+      "category": "Developer Tools",
+      "is_free": true,
+      "cost": "Free for Students",
+      "description": "Over $200k in free cloud credits, domain names, GitHub Copilot, and developer tooling.",
+      "is_demo": true,
+      "_id": "278926c0-5ca5-4c6f-a1d6-f185542ef44e",
+      "created_at": "2026-11-02T18:02:25.331125",
+      "updated_at": "2026-11-02T18:02:25.331139"
+    },
+    {
+      "title": "MDN Web Docs Learning Area",
+      "platform": "Mozilla",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn",
+      "category": "Web Development",
+      "is_free": true,
+      "cost": "100% Free",
+      "description": "Authoritative documentation and structured beginner guides for modern web standards.",
+      "is_demo": true,
+      "_id": "6efafe6a-b908-4904-9e18-ee89a6e31c94",
+      "created_at": "2026-11-02T18:02:25.354115",
+      "updated_at": "2026-11-02T18:02:25.354125"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "Google Generation Scholarship (APAC)",
+      "provider": "Google Diversity in STEM",
+      "amount": "$2,500 USD grant",
+      "eligibility": "Women enrolled in undergraduate or graduate computer science degrees",
+      "deadline": "2026-12-15",
+      "application_url": "https://buildyourfuture.withgoogle.com/scholarships",
+      "category": "Women in Tech & Diversity",
+      "description": "Awarded to female students excelling in technology who demonstrate leadership and passion for computer science.",
+      "is_demo": true,
+      "_id": "3fd1d72b-5512-4b0d-b14e-0eb22caa6090",
+      "created_at": "2026-11-02T18:02:25.374255",
+      "updated_at": "2026-11-02T18:02:25.374266"
+    },
+    {
+      "title": "National Meritorious STEM Fellowship",
+      "provider": "Department of Science and Technology (Demo)",
+      "amount": "\u20b950,000 / year + Project Grant",
+      "eligibility": "B.Tech / B.Sc / BCA students with 7.5+ CGPA and demonstrated research interest",
+      "deadline": "2026-11-30",
+      "application_url": "https://example.com/scholarships/dst-merit",
+      "category": "Merit-Based STEM",
+      "description": "Government fellowship supporting high-potential tech students from tier-2 and tier-3 colleges.",
+      "is_demo": true,
+      "_id": "54002eeb-ddeb-4814-8139-950f801e80dd",
+      "created_at": "2026-11-02T18:02:25.396393",
+      "updated_at": "2026-11-02T18:02:25.396409"
+    },
+    {
+      "title": "GitHub Octernship & Open Source Grant",
+      "provider": "GitHub Education",
+      "amount": "Paid project stipend ($500 - $1,500/mo)",
+      "eligibility": "Verified college students actively contributing to open source repositories",
+      "deadline": "2026-12-30",
+      "application_url": "https://education.github.com/students",
+      "category": "Open Source & Developer Grants",
+      "description": "Practical fellowships connecting student builders with industry partner open-source codebases.",
+      "is_demo": true,
+      "_id": "48c0758c-c93a-44e2-8ade-5c85b4675421",
+      "created_at": "2026-11-02T18:02:25.417141",
+      "updated_at": "2026-11-02T18:02:25.417152"
+    },
+    {
+      "title": "Grace Hopper Celebration Student Scholar Award",
+      "provider": "AnitaB.org",
+      "amount": "Full conference travel & registration grant",
+      "eligibility": "Female undergraduate and graduate computing students",
+      "deadline": "2026-11-20",
+      "application_url": "https://ghc.anitab.org/",
+      "category": "Conference & Travel Grant",
+      "description": "Covers registration and attendance at the world's largest gathering of women technologists.",
+      "is_demo": true,
+      "_id": "d26e95a6-b79e-433c-afd3-56f1f9b46145",
+      "created_at": "2026-11-02T18:02:25.438910",
+      "updated_at": "2026-11-02T18:02:25.438922"
+    },
+    {
+      "title": "First-Generation College Tech Innovators Fund",
+      "provider": "Equalizer Philanthropy Network (Demo)",
+      "amount": "\u20b935,000 laptop / hardware grant",
+      "eligibility": "First-generation university students pursuing software or hardware engineering",
+      "deadline": "2026-12-10",
+      "application_url": "https://example.com/scholarships/first-gen",
+      "category": "Financial Accessibility",
+      "description": "Direct hardware and internet subsidy to bridge the digital divide for aspiring student engineers.",
+      "is_demo": true,
+      "_id": "85c932f5-8a92-4cef-9596-17b6c51cec6b",
+      "created_at": "2026-11-02T18:02:25.458180",
+      "updated_at": "2026-11-02T18:02:25.458191"
+    }
+  ],
+  "users": [
+    {
+      "uid": "student-demo-id",
+      "email": "demo.student@careerbridge.ai",
+      "name": "Aarav Sharma",
+      "role": "student",
+      "college": "National Institute of Technology",
+      "is_verified": true,
+      "created_at": "2026-11-02T18:02:25.479048",
+      "_id": "14e4910b-f0b4-414d-87f1-6ecf29f9e7a0",
+      "updated_at": "2026-11-02T18:02:25.479101"
+    },
+    {
+      "uid": "admin-demo-id",
+      "email": "admin@careerbridge.ai",
+      "name": "Dr. Sunita Sen (Admin)",
+      "role": "admin",
+      "college": "CareerBridge Central Administration",
+      "is_verified": true,
+      "created_at": "2026-11-02T18:02:25.523988",
+      "_id": "fe91d06c-e3d9-4805-b2bf-d7a853a0d446",
+      "updated_at": "2026-11-02T18:02:25.524043"
+    }
+  ],
+  "student_profiles": [
+    {
+      "user_id": "student-demo-id",
+      "email": "demo.student@careerbridge.ai",
+      "full_name": "Aarav Sharma",
+      "college": "National Institute of Technology",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "branch": "Computer Science & Engineering",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Python",
+        "Flask",
+        "React.js",
+        "JavaScript",
+        "SQL",
+        "Git & GitHub",
+        "HTML5 & CSS3"
+      ],
+      "technical_skills": [
+        "Python",
+        "Flask",
+        "React.js",
+        "JavaScript",
+        "SQL",
+        "Git & GitHub"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Team Leadership",
+        "Technical Writing"
+      ],
+      "skill_proficiencies": {
+        "Python": 80,
+        "SQL": 65,
+        "React.js": 70,
+        "Flask": 75,
+        "JavaScript": 70,
+        "Git & GitHub": 85,
+        "Data Structures & Algorithms": 60,
+        "Docker": 30,
+        "Machine Learning": 40
+      },
+      "projects": [
+        {
+          "title": "Campus Marketplace & Resource Hub",
+          "description": "Built full stack web application with React and Flask allowing college students to exchange books and project equipment.",
+          "technologies": [
+            "React.js",
+            "Flask",
+            "SQL",
+            "Tailwind CSS"
+          ],
+          "github_url": "https://github.com/aaravsharma/campus-hub",
+          "live_url": "https://campushub-demo.vercel.app"
+        },
+        {
+          "title": "Algorithmic Trading Backtester",
+          "description": "Python data analysis tool evaluating moving average crossover strategies on historical stock tick data.",
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "github_url": "https://github.com/aaravsharma/algo-backtest"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Full Stack Web Development",
+          "issuer": "FreeCodeCamp",
+          "issue_date": "2025-08-15",
+          "credential_url": "https://freecodecamp.org/certification/aarav/full-stack"
+        }
+      ],
+      "areas_of_interest": [
+        "Full Stack Engineering",
+        "Cloud Computing",
+        "AI Application Development"
+      ],
+      "preferred_job_roles": [
+        "Software Engineering Intern",
+        "Full Stack Developer",
+        "Backend Developer"
+      ],
+      "preferred_work_mode": "remote",
+      "preferred_location": "Bengaluru",
+      "career_goals": "Secure a challenging software engineering internship at an innovative tech startup or product company.",
+      "linkedin_url": "https://linkedin.com/in/aarav-sharma-demo",
+      "github_url": "https://github.com/aaravsharma-demo",
+      "portfolio_url": "https://aaravsharma.dev",
+      "learning_progress_pct": 45,
+      "has_resume": true,
+      "created_at": "2026-11-02T18:02:25.499173",
+      "_id": "675041ce-f064-4870-b533-c49afaa25ef2",
+      "updated_at": "2026-11-02T18:02:25.499235"
+    },
+    {
+      "user_id": "5dc586b6-c1d3-4711-a2c6-dac630975e31",
+      "email": "priya.p@univ.edu",
+      "full_name": "Priya Patel",
+      "college": "IIT Bombay",
+      "degree": "B.Tech",
+      "branch": "Electrical Engineering",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "C++"
+      ],
+      "technical_skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "C++"
+      ],
+      "projects": [
+        {
+          "title": "Priya Patel's Capstone Project",
+          "technologies": [
+            "Python",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "44be7baa-7369-41cc-99b1-d3c860fdf718",
+      "created_at": "2026-11-02T18:02:25.548823",
+      "updated_at": "2026-11-02T18:02:25.548834"
+    },
+    {
+      "user_id": "d15e8293-595d-411d-8625-ff8b70f7b24e",
+      "email": "rohan.g@univ.edu",
+      "full_name": "Rohan Gupta",
+      "college": "BITS Pilani",
+      "degree": "B.Tech",
+      "branch": "Computer Science",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "React.js",
+        "TypeScript",
+        "Node.js",
+        "Docker"
+      ],
+      "technical_skills": [
+        "React.js",
+        "TypeScript",
+        "Node.js",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "title": "Rohan Gupta's Capstone Project",
+          "technologies": [
+            "React.js",
+            "TypeScript"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "9b951517-c9a0-4643-9daf-e04130077b59",
+      "created_at": "2026-11-02T18:02:25.569981",
+      "updated_at": "2026-11-02T18:02:25.569992"
+    },
+    {
+      "user_id": "98fb6335-3ac9-4d0f-8d17-66727c73ca1d",
+      "email": "ananya.r@univ.edu",
+      "full_name": "Ananya Rao",
+      "college": "IIIT Hyderabad",
+      "degree": "B.Tech",
+      "branch": "Information Technology",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "AWS Cloud"
+      ],
+      "technical_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "AWS Cloud"
+      ],
+      "projects": [
+        {
+          "title": "Ananya Rao's Capstone Project",
+          "technologies": [
+            "Java",
+            "Spring Boot"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "d22a18b8-ea2c-4a5e-8cb3-ef7dcca4fe6a",
+      "created_at": "2026-11-02T18:02:25.591835",
+      "updated_at": "2026-11-02T18:02:25.591848"
+    },
+    {
+      "user_id": "0f775cb1-74b2-4e4e-9912-f6b0b5b840a4",
+      "email": "vikram.s@univ.edu",
+      "full_name": "Vikram Singh",
+      "college": "Delhi Technological University",
+      "degree": "B.Tech",
+      "branch": "Mechanical Eng",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas & NumPy"
+      ],
+      "technical_skills": [
+        "Python",
+        "SQL",
+        "Pandas & NumPy"
+      ],
+      "projects": [
+        {
+          "title": "Vikram Singh's Capstone Project",
+          "technologies": [
+            "Python",
+            "SQL"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "a126a5ca-31d2-4885-883c-13f588f3d0b0",
+      "created_at": "2026-11-02T18:02:25.612680",
+      "updated_at": "2026-11-02T18:02:25.612692"
+    },
+    {
+      "user_id": "37c65c32-8e8d-4d9c-a8dd-fcf4a389add6",
+      "email": "sneha.r@univ.edu",
+      "full_name": "Sneha Roy",
+      "college": "Jadavpur University",
+      "degree": "MCA",
+      "branch": "Computer Applications",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "technical_skills": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "projects": [
+        {
+          "title": "Sneha Roy's Capstone Project",
+          "technologies": [
+            "React.js",
+            "Tailwind CSS"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "ef68d6fe-c98d-4474-a956-8bf9f4fb8a55",
+      "created_at": "2026-11-02T18:02:25.632796",
+      "updated_at": "2026-11-02T18:02:25.632807"
+    },
+    {
+      "user_id": "2d663928-2606-41ee-b6c3-40ff11f70ab0",
+      "email": "kavita.n@univ.edu",
+      "full_name": "Kavita Nair",
+      "college": "Anna University",
+      "degree": "B.Tech",
+      "branch": "Computer Science",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Python",
+        "Data Structures & Algorithms",
+        "C++"
+      ],
+      "technical_skills": [
+        "Python",
+        "Data Structures & Algorithms",
+        "C++"
+      ],
+      "projects": [
+        {
+          "title": "Kavita Nair's Capstone Project",
+          "technologies": [
+            "Python",
+            "Data Structures & Algorithms"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "2af389c5-8ce9-4b2e-a0ac-60df20ffabbb",
+      "created_at": "2026-11-02T18:02:25.649592",
+      "updated_at": "2026-11-02T18:02:25.649603"
+    },
+    {
+      "user_id": "77eefa6a-44c0-476b-ba73-d62e083a0f07",
+      "email": "aditya.v@univ.edu",
+      "full_name": "Aditya Verma",
+      "college": "VIT Vellore",
+      "degree": "B.Tech",
+      "branch": "Information Science",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS Cloud",
+        "Linux"
+      ],
+      "technical_skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS Cloud",
+        "Linux"
+      ],
+      "projects": [
+        {
+          "title": "Aditya Verma's Capstone Project",
+          "technologies": [
+            "Docker",
+            "Kubernetes"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "6a209c35-294c-4ea0-a674-2ea34c20b697",
+      "created_at": "2026-11-02T18:02:25.668833",
+      "updated_at": "2026-11-02T18:02:25.668844"
+    },
+    {
+      "user_id": "2768fe12-f9fe-49ed-b2ea-832aeb687c15",
+      "email": "meera.j@univ.edu",
+      "full_name": "Meera Joshi",
+      "college": "Pune Institute of Computer Tech",
+      "degree": "B.E.",
+      "branch": "Computer Engineering",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "Python",
+        "Flask",
+        "MongoDB"
+      ],
+      "technical_skills": [
+        "Python",
+        "Flask",
+        "MongoDB"
+      ],
+      "projects": [
+        {
+          "title": "Meera Joshi's Capstone Project",
+          "technologies": [
+            "Python",
+            "Flask"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "34dcab74-a240-490c-ad44-2d3f66d02964",
+      "created_at": "2026-11-02T18:02:25.687506",
+      "updated_at": "2026-11-02T18:02:25.687517"
+    },
+    {
+      "user_id": "dccfa7b7-4f28-49bc-b7a2-eba7f08a00fd",
+      "email": "karan.m@univ.edu",
+      "full_name": "Karan Malhotra",
+      "college": "Thapar University",
+      "degree": "B.Tech",
+      "branch": "Electronics & Comm",
+      "current_semester": "6th Semester",
+      "graduation_year": "2026",
+      "skills": [
+        "JavaScript",
+        "HTML5 & CSS3",
+        "React.js"
+      ],
+      "technical_skills": [
+        "JavaScript",
+        "HTML5 & CSS3",
+        "React.js"
+      ],
+      "projects": [
+        {
+          "title": "Karan Malhotra's Capstone Project",
+          "technologies": [
+            "JavaScript",
+            "HTML5 & CSS3"
+          ]
+        }
+      ],
+      "areas_of_interest": [
+        "Software Development"
+      ],
+      "preferred_work_mode": "remote",
+      "is_demo": true,
+      "_id": "8c3114af-86dc-4491-ab1d-30ea3b62f846",
+      "created_at": "2026-11-02T18:02:25.707108",
+      "updated_at": "2026-11-02T18:02:25.707119"
+    }
+  ],
+  "notifications": [
+    {
+      "user_id": "student-demo-id",
+      "title": "Welcome to CareerBridge AI!",
+      "message": "Explore matching opportunities and test your Career Readiness Score in the dashboard.",
+      "category": "system",
+      "is_read": false,
+      "created_at": "2026-11-02T18:02:25.725783",
+      "_id": "abf5b3f0-cadd-492c-b40f-33cb3a19409a",
+      "updated_at": "2026-11-02T18:02:25.725868"
+    },
+    {
+      "user_id": "student-demo-id",
+      "title": "National Smart India Hackathon Registration Open",
+      "message": "Registration deadline approaching in 12 days. Teams of 4-6 members eligible.",
+      "category": "event",
+      "is_read": false,
+      "created_at": "2026-11-02T18:02:25.725813",
+      "_id": "c51e5bc0-ce5b-4d5c-9e62-89df0a99179e",
+      "updated_at": "2026-11-02T18:02:25.746379"
+    },
+    {
+      "user_id": "student-demo-id",
+      "title": "New High Match Opportunity: Nexus Innovations",
+      "message": "Software Engineering Intern role matches 88% of your Python and Flask skills.",
+      "category": "opportunity",
+      "is_read": false,
+      "created_at": "2026-11-02T18:02:25.725831",
+      "_id": "176c4547-3850-4bf2-b057-e881188cd7b5",
+      "updated_at": "2026-11-02T18:02:25.765448"
+    }
+  ],
+  "applications": [
+    {
+      "user_id": "student-demo-id",
+      "opportunity_id": "47a4e306-532f-4d75-bac9-d1ed2203b1a4",
+      "title": "Software Engineering Intern",
+      "company": "Nexus Innovations (Demo)",
+      "type": "internship",
+      "status": "Under Review",
+      "applied_date": "2026-11-02",
+      "notes": "Completed initial screening quiz; waiting for round 2 technical discussion.",
+      "is_demo": true,
+      "_id": "c500a757-aed0-4ffd-80ea-8453bdf57575",
+      "created_at": "2026-11-02T18:02:25.787632",
+      "updated_at": "2026-11-02T18:02:25.787647"
+    }
+  ]
+}
